@@ -1,0 +1,22 @@
+.button {
+  margin: 0.3em;
+  display: flex;
+  height: 3.5em;
+  font-size: 1.8em;
+  width: 5em;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  color: darkmagenta;
+  border: 2px solid rgb(192, 156, 156);
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.is-operator {
+  background-color: orangered;
+  color: burlywood;
+  border: 2px solid rgb(47, 137, 153);
+  border-radius: 1rem;
+  cursor: pointer;
+}
